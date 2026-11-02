@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Manoj Kumar</h1>
 
-<h3 align="center">Software Developer | DevSecOps Enthusiast | AI/LLM Engineer</h3>
+<h3 align="center">Software Developer | Full Stack Developer | AI/LLM Engineer</h3>
 
 <p align="center">
   Building secure, intelligent, and user-focused applications.
