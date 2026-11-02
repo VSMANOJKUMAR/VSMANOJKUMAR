@@ -169,15 +169,6 @@ Developed an offline image classification application for grading diabetic retin
 
 ---
 
-## 🏆 Achievements & Experience
-
-- 🥇 **UI/UX Design Hackathon:** Secured first place for design innovation.
-- 🚀 **Salesforce Program:** Participated in sessions covering AI, system design, emerging technologies, and business and product perspectives.
-- 💡 **Product Thinking:** Experienced in pitching ideas, collaborating on creative work, and presenting solutions to industry teams.
-- 🔐 **Security-First Development:** Applied automated security scanning and vulnerability analysis to a CI/CD workflow.
-
----
-
 ## 🎯 Currently Exploring
 
 - 🔐 Advanced DevSecOps automation and secure CI/CD pipelines.
