@@ -178,19 +178,6 @@ Developed an offline image classification application for grading diabetic retin
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VSMANOJKUMAR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSMANOJKUMAR&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VSMANOJKUMAR&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
 ## 🎯 Currently Exploring
 
 - 🔐 Advanced DevSecOps automation and secure CI/CD pipelines.
